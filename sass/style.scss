@@ -1,0 +1,70 @@
+//http://dribbble.com/shots/1300492-Landscape?list=searches&tag=asian&offset=12
+body{
+	background:#EBE388;
+}
+#header{
+	background:#CEDAD0;
+}
+
+#header-bottom-right{
+	background:#BECFC1;
+
+}
+
+#header-img.default-header {
+	background-image:none;
+}
+
+.pagename a{
+	font-size:3em;
+	background-color: #374E4B;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(206,218,208,0.5) 0px 1px 1px;
+    line-height:35px;
+    float:left;
+    margin-left:100px;
+    margin-right:-100px;
+}
+
+.tabmenu li a{
+	color:#fff;
+	background:#243F42;
+	border-radius:5px 5px 0 0;
+
+}
+
+#siteTable {
+padding: 7px;
+padding-top: 8px;
+padding-right: 365px;
+}
+
+.thing{
+	background:#fff;
+	margin-left:15px;
+	margin-bottom:15px;
+	// border:1px solid #374E4B;
+	box-shadow:  -1px 0px 1px #6B696D,  1px 1px 1px #6B696D;
+	width:100%;
+}
+
+.side{
+	// border:1px solid #000;
+	box-shadow:  -1px 0px 1px #6B696D,  1px 1px 1px #6B696D;
+	width:312px;
+	margin-right:10px;
+	margin-top:15px;
+	padding:10px;
+	// background:#CEDAD0;
+}
+
+.thing .title{
+	color:#243F42;
+}
+
+.thing.stickied a.title, .thing.stickied a.title:visited, .thing.stickied a.title.visited {
+	color:#9F995C;
+}
