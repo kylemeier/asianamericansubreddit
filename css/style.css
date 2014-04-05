@@ -52,3 +52,9 @@ body {
 
 .thing.stickied a.title, .thing.stickied a.title:visited, .thing.stickied a.title.visited {
   color: #9F995C; }
+
+.nextprev a, .next-suggestions a {
+  background-color: #BECFC1; }
+
+.footer {
+  background-color: #fff; }

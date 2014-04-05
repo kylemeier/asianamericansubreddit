@@ -46,19 +46,16 @@ padding-right: 365px;
 	background:#fff;
 	margin-left:15px;
 	margin-bottom:15px;
-	// border:1px solid #374E4B;
 	box-shadow:  -1px 0px 1px #6B696D,  1px 1px 1px #6B696D;
 	width:100%;
 }
 
 .side{
-	// border:1px solid #000;
 	box-shadow:  -1px 0px 1px #6B696D,  1px 1px 1px #6B696D;
 	width:312px;
 	margin-right:10px;
 	margin-top:15px;
 	padding:10px;
-	// background:#CEDAD0;
 }
 
 .thing .title{
@@ -67,4 +64,12 @@ padding-right: 365px;
 
 .thing.stickied a.title, .thing.stickied a.title:visited, .thing.stickied a.title.visited {
 	color:#9F995C;
+}
+
+.nextprev a, .next-suggestions a{
+	background-color:#BECFC1;
+}
+
+.footer{
+	background-color:#fff;
 }
