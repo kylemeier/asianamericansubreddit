@@ -1,5 +1,5 @@
 body {
-  background: #EBE388; }
+  background: #ACAC8F; }
 
 #header {
   background: #CEDAD0; }
@@ -28,15 +28,20 @@ body {
   background: #243F42;
   border-radius: 5px 5px 0 0; }
 
+.tabmenu li.selected a {
+  background: #C9C5A1;
+  color: #000;
+  border-bottom: none; }
+
 #siteTable {
   padding: 7px;
   padding-top: 8px;
   padding-right: 365px; }
 
 .thing {
-  background: #fff;
+  background: #FFFDE0;
   margin-left: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   box-shadow: -1px 0px 1px #6B696D,  1px 1px 1px #6B696D;
   width: 100%; }
 
@@ -54,7 +59,7 @@ body {
   color: #9F995C; }
 
 .nextprev a, .next-suggestions a {
-  background-color: #BECFC1; }
+  background: #BECFC1; }
 
 .footer {
-  background-color: #fff; }
+  background: #FFFDE0; }
